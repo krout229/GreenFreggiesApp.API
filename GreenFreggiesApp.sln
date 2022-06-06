@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenFreggies.API", "GreenFreggies.API\GreenFreggies.API.csproj", "{1FB64BDB-8A5A-419B-A1E0-39DEBA0A0E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB64BDB-8A5A-419B-A1E0-39DEBA0A0E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB64BDB-8A5A-419B-A1E0-39DEBA0A0E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB64BDB-8A5A-419B-A1E0-39DEBA0A0E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB64BDB-8A5A-419B-A1E0-39DEBA0A0E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733049F3-90F2-4A17-8526-3F1DC63F1E85}
+	EndGlobalSection
+EndGlobal
