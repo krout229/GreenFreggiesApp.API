@@ -13,7 +13,7 @@ namespace GreenFreggies.API.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int OrderId { get; set; }
         public decimal OrderValue { get; set; }
-        public string OrderItems { get; set; }
+        public string VegetableName { get; set; }
         [ForeignKey("cart")]
         public int CartId { get; set; }
         [ForeignKey("Transaction")]
